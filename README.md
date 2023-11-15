@@ -10,3 +10,5 @@ How to install this Chrome Extension ?
 * Press 'Load unpacked' button on the top left and choose the extracted folder from section 2.
 * Click on the 'Developer mode' toggle again, to turn it off.
 * A small icon with a tomato icon will appear near the three dots from section 1 (This is the extension).
+* If you don't see an icon displayed for the pinned extensions, please click on the extension list icon and then pin the Pomodoro extension.
+
