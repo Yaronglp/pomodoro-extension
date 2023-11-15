@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Pomodoro",
+    "version": "1.0.0",
+    "description": "A simple pomodoro timer extension",
+    "permissions": ["storage", "alarms", "tabs"],
+    "action": {
+      "default_popup": "html/popup.html",
+      "default_icon": {
+        "128": "icons/icon128.png"
+      }
+    },
+    "background": {
+      "service_worker": "js/background.js",
+      "type": "module"
+    },
+    "icons": {
+      "128": "icons/icon128.png"
+    }
+  }
+  
+  
