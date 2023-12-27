@@ -1,5 +1,5 @@
 # pomodoro-extension
-### A simple pomodoro timer extension (WIP)
+### A simple pomodoro timer extension
 
 ![image](https://github.com/Yaronglp/pomodoro-extension/assets/10623307/9bd57e25-1690-4fca-b246-cfa8cecde8e6)
 
